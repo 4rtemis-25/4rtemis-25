@@ -3,7 +3,7 @@
 
 <br>
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre Mí**
+**Sobre Mí**
 
 
 <br>
@@ -12,7 +12,7 @@
 - Un año de experiencia en este proceso
 - Estudiando Inglés y otros lenguajes/frameworks
 - Mi Portafolio ([Portfolio](https://4rtemis-25.github.io/dev/))
-- Programador Freelance, Emprendedor
+- Programador y Freelance
 - hernandez.gomez292020@gmail.com
 
 <br>
